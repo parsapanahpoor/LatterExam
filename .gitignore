@@ -1,10 +1,3 @@
-# Exam source images (not part of this repository)
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.webp
-
 # .NET build output
 [Bb]in/
 [Oo]bj/
