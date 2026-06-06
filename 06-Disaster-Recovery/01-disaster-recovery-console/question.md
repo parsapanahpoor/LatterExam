@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # Disaster Recovery و Recoverability در Console App .NET 9
 
 ## اطلاعات آزمون
@@ -29,3 +31,5 @@
 - منوی recovery
 - **بدون cache** یا حافظه موقت
 - کمترین Downtime ممکن
+
+</div>

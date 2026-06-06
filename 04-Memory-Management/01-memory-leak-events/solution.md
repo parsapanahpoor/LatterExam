@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # راه‌حل: Memory Leak در رویدادها
 
 ## گام ۱ — شناسایی علت Leak
@@ -64,3 +66,5 @@ dotnet run
 ## نکات
 - همیشه برای event subscription های موقت از `IDisposable` یا unsubscribe صریح استفاده کنید.
 - این الگو در WPF/WinForms و سرویس‌های long-lived بسیار رایج است.
+
+</div>

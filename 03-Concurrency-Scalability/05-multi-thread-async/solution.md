@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # راه‌حل: چالش Multi-threading
 
 ## گام ۱ — شناسایی مشکل
@@ -45,3 +47,5 @@ dotnet run
 ## نکات
 - `Task.Run` + `ConcurrentBag` الگوی رایج برای پردازش موازی CPU-bound است.
 - از `async void` در این سناریو پرهیز کنید.
+
+</div>

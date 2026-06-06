@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # راه‌حل: مدیریت سفارش رستوران
 
 ## گام ۱ — ساختار پروژه
@@ -65,3 +67,5 @@ curl -X PATCH http://localhost:5000/api/orders/{id}/status \
 - Controller فقط HTTP را مدیریت می‌کند.
 - Service اعتبارسنجی و قوانین انتقال وضعیت را اعمال می‌کند.
 - Repository دسترسی به داده را جدا نگه می‌دارد.
+
+</div>

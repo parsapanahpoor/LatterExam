@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # راه‌حل: احراز هویت Minimal API
 
 ## گام ۱ — endpoint ورود
@@ -48,3 +50,5 @@ curl -i http://localhost:5000/protected
 
 ## نکته
 در production از JWT و secret management استفاده می‌شود؛ برای این چالش token ثابت کافی است.
+
+</div>

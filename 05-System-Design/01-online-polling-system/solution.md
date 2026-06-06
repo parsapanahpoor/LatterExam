@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # راه‌حل: سامانه نظرسنجی آنلاین
 
 ## گام ۱ — طراحی لایه‌ها (Clean Architecture)
@@ -67,3 +69,5 @@ curl http://localhost:5000/api/polls/{id}/results \
 - Repository در حافظه برای demo — در production از SQL/Redis استفاده شود.
 - SignalR می‌تواند برای real-time واقعی به endpoint نتایج اضافه شود.
 - کلید AES و JWT secret باید از configuration امن خوانده شوند.
+
+</div>

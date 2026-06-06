@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # راه‌حل: اصلاح Dependency Injection
 
 ## گام ۱ — شناسایی مشکل
@@ -62,3 +64,5 @@ Scope 2 - Service: Service[...] -> Repository[...]
 ## نکته
 
 در Web API معمولاً `Repository` را **Scoped** و `Service` را **Scoped** یا **Transient** ثبت می‌کنند تا در هر request state جدا داشته باشند.
+
+</div>

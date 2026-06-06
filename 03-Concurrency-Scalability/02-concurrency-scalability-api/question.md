@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # چالش مدیریت همزمانی و مقیاس‌پذیری درخواست‌ها در Minimal API
 
 ## اطلاعات آزمون
@@ -34,3 +36,5 @@ dotnet run
 curl -X POST -F "number=5" http://localhost:5000/add
 curl http://localhost:5000/sum
 ```
+
+</div>

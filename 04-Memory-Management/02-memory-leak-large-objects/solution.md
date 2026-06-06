@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # راه‌حل: Memory Leak در اشیای حجیم
 
 ## گام ۱ — شناسایی مشکل
@@ -59,3 +61,5 @@ dotnet run
 - اشیای بزرگ‌تر از ۸۵KB در LOH (Large Object Heap) قرار می‌گیرند.
 - آزادسازی صریح reference (`= null`) به GC کمک می‌کند.
 - برای منابع unmanaged همیشه `IDisposable` پیاده کنید.
+
+</div>

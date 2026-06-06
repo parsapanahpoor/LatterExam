@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # اصلاح Dependency Injection و Lifetime
 
 ## موضوع
@@ -18,3 +20,5 @@ Lifetime فعلی باعث می‌شود چند سرویس instance مشترک R
 ## خروجی مورد انتظار
 - Console app که تفاوت lifetime صحیح را نشان می‌دهد
 - DI container با lifetime درست
+
+</div>

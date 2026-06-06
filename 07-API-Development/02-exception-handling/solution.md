@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # راه‌حل: مدیریت Exception و پردازش ورودی
 
 ## گام ۱ — مشکل
@@ -53,3 +55,5 @@ dotnet run --project ExceptionHandlingDemo
 - `TryParse` exception پرتاب نمی‌کند — مناسب loop روی ورودی ناشناخته.
 - از `ILogger` برای لاگ ساخت‌یافته استفاده شده است.
 - در production می‌توان invalid entries را در فایل یا DB ذخیره کرد.
+
+</div>
