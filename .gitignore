@@ -1,0 +1,27 @@
+# Exam source images (not part of this repository)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# .NET build output
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.user
+*.suo
+.vs/
+
+# Runtime / local test artifacts
+TestFiles/
+credentials.txt
+*.db
+*.sqlite
+backups/
+appsettings.Development.json
+
+# OS
+.DS_Store
+Thumbs.db
